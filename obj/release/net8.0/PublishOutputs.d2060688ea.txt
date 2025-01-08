@@ -1,0 +1,7 @@
+C:\Laxman\AZURE\Az204\WebApp\Webapp1\bin\publish\Webapp1.exe
+C:\Laxman\AZURE\Az204\WebApp\Webapp1\bin\publish\appsettings.Development.json
+C:\Laxman\AZURE\Az204\WebApp\Webapp1\bin\publish\appsettings.json
+C:\Laxman\AZURE\Az204\WebApp\Webapp1\bin\publish\Webapp1.dll
+C:\Laxman\AZURE\Az204\WebApp\Webapp1\bin\publish\Webapp1.deps.json
+C:\Laxman\AZURE\Az204\WebApp\Webapp1\bin\publish\Webapp1.runtimeconfig.json
+C:\Laxman\AZURE\Az204\WebApp\Webapp1\bin\publish\Webapp1.pdb
